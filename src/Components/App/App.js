@@ -1,6 +1,5 @@
 import React from "react";
 import './App.css';
-import "/Users/apple/Desktop/jammming/src/Components/App/App.css";
 import SearchBar from "../SearchBar/SearchBar";
 import SearchResults from "../SearchResults/SearchResults";
 import Playlist from "../Playlist/Playlist";

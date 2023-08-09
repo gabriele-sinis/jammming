@@ -1,7 +1,10 @@
 import React from "react";
 import "./TrackList.css";
 import Track from "../Track/Track";
-import { toHaveDisplayValue } from "@testing-library/jest-dom/matchers";
+
+// eslint-disable-next-line
+import { toHaveDisplayValue } from '@testing-library/jest-dom';
+
 
 class TrackList extends React.Component {
   render() {
