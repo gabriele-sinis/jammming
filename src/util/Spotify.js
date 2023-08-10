@@ -1,6 +1,6 @@
 
 const clientId = "ac28a2d5b15f4bfd85e07a3f4f5aa3f2";
-const redirectUri = "http://kitty-fy.surge.sh";
+const redirectUri = "https://kitty-fy.surge.sh/";
 let accessToken;
 
 const Spotify = {
